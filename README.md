@@ -22,7 +22,7 @@
   <img src="https://github.com/tammyho52/sukiJapanItineraryImages/blob/cfff821a193939e29b9c8bac778e11bd255ddad5/ItineraryView.png" width="150px" height="auto" style="border-radius: 15px;">
 </div>
 
-*Screenshots are from the current development build, showcasing key features in progress.*
+<br> *Screenshots are from the current development build, showcasing key features in progress.* <br>
 
 ## Overview
 
