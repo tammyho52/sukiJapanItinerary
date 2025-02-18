@@ -27,13 +27,11 @@
 ## Overview
 
 Travel with Japan at your fingertips! Discover lesser-traveled destinations & immmerse yourself in different cultural experiences across Japan's 47 prefectures. Plan your next trip to Japan using our travel recommendations, tailored itineraries, and activity guides. Expand your reach throughout the country and see what you can discover with us. 
-<br>
 
 ## Features
 - Explore and discover new places to visit and things to do through category and location-based searches.
 - Create your itinerary based on curated itineraries from us or your own custom findings.
 - Track your budget for easy payment splitting after the trip.
-<br>
 
 ## Release Date
 The app is currently in development and will be coming soon – どうもありがとうございます (Thank you!)
